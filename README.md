@@ -7,6 +7,7 @@ Este repositório contém o Plano de Teste documentado em um arquivo PDF, detalh
 📄 Arquivo Disponível
 
 **📌 [Plano de Teste - Login.pdf](planejamentoDeTestesHRM.pdf)**
+**📌 [Acesse o Projeto Aqui](https://github.com/ElizabethGomes-QAEngineer/Automacao-Cypress-JavaScript-CI-Orange-HRM-)**
 
 ## 🚀 O Que Está No Documento?
 
