@@ -10,10 +10,15 @@ Este repositório contém o Plano de Teste documentado em um arquivo PDF, detalh
 
 ## 🚀 O Que Está No Documento?
 
+
 ✅ Objetivo do teste
+
 ✅ Estratégia de teste (manual, exploratório, automatizado)
+
 ✅ Casos de teste detalhados
+
 ✅ Critérios de aceitação
+
 ✅ Planejamento da automação e CI/CD
 
 ## 📂 Como Usar?
